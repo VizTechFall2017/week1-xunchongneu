@@ -1,0 +1,64 @@
+
+body {
+    background-color: grey;
+}
+
+.colorDiv{
+    background:grey;
+    border-width:3px;
+    padding:1px;
+}
+
+
+.titleDiv{
+    font-family:timberline regular;
+    font-size:64pt;
+    background:grey;
+    border-width:20px;
+}
+
+
+#div1 {
+    width: 100%;
+    font-size:36pt;
+    background:lightgrey;
+    border-width:10px;
+}
+
+#div2 {
+    width:47%;
+    float:left;
+    height:200px;
+}
+
+#div3 {
+    float:right;
+    width:40%;
+    height:400px;
+}
+
+
+#div4 {
+    height:50px;
+    width:42.5%;
+    clear:both;
+    float:left;
+    background:powderblue;
+
+}
+
+#div5 {
+    width:40%;
+    height:50px;
+    float:right;
+    background:powderblue;
+
+
+}
+#div6 {
+    width: 200px;
+    clear: both;
+    padding:20px;
+    margin:-20px;
+}
+
